@@ -1,4 +1,4 @@
-# Nine Men Morris(Variant D)
+# Nine-Men Morris(Variant D)
 
 **Goal**: The object of the game is to remove an opponent’s pieces by forming lines of three pieces (“mills”) along any of the 16 lines. A mill can be formed in a row (three across) or a column (three down).
 
