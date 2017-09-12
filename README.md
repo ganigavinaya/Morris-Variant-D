@@ -29,5 +29,5 @@ MINIMAX esitmate: 3
 
 ## Authors
 
-* **Mohanakrishna**
+**Mohanakrishna**
 
