@@ -6,8 +6,6 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 Requires Python 3.x to be installed on the system
@@ -19,7 +17,7 @@ Requires Python 3.x to be installed on the system
 
 2. Run the files using the below syntax:
 
-    python \<filename\> <input-path> <output-path> <depth>
+    python \<filename\> \<input-path\> \<output-path\> \<depth\>
 
 ## Sample Test Cases 
 
