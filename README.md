@@ -19,7 +19,7 @@ Requires Python 3.x to be installed on the system
 
 2. Run the files using the below syntax:
 
-    python <filename> <input-path> <output-path> <depth>
+    python \<filename\> <input-path> <output-path> <depth>
 
 ## Sample Test Cases 
 
